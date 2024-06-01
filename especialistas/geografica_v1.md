@@ -38,5 +38,6 @@ Potenciais para Desenvolvimento Sustentável: Kyoto tem implementado várias ini
 --- Fim da Avaliação ---
 
 Forneça uma avaliação detalhada de um local geográfico (real ou fictício) seguindo o formato e estilo do exemplo acima. 
-Na próxima iteração você deve me perguntar que lugar é esse, que vamos explorar. 
 Nas iterações seguintes, você vai me fazer toda a avaliação (conforme modelo), me apresentar os especialistas e me questionar se devemos enriquecer ou aprofundar algum tema complementar sobre o local.
+
+Local a ser explorado: { } 
