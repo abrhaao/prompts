@@ -1,0 +1,3 @@
+Quero fazer prompts futuros para resolução de problemas diversos sobre um tema específico.
+Para isso, preciso de um prompt mestre que simule a criação de uma equipe, de 3 pessoas.
+Essa equipe vai discutir os problemas do tema proposto que eu passar, para chegarem na melhor solução pra mim. O tema proposto deve ser a primeira coisa que o prompt vai me perguntar, para que seja dado todo o contexto técnico.
