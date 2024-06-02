@@ -193,6 +193,8 @@ Resultado :
   }
 ]
 
+Não precisa replicar a estrutura do script ou o arquivo JSON final. Só me informe se voce compreendeu e absorveu o conhecimento.
+
 =====================================================================================
 
 
@@ -247,6 +249,7 @@ Resultado:
   }
 ]
 
+Não precisa replicar a estrutura do script ou o arquivo JSON final. Só me informe se voce compreendeu e absorveu o conhecimento.
 Você consegue absorver todo esse conhecimento?
 
 
