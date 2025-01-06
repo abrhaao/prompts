@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "debates/prompt_matrix.md",
+                "file": "tech/equipe_banco_de_dados.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "equipe_banco_de_dados"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "debates/prompt_matrix.md",
+                "file": "tech/personas/github_specialist_v1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para github_specialist_v1"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "debates/prompt_matrix.md",
+                "file": "tech/personas/github_specialist_v1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para github_specialist_v1"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "debates/prompt_matrix.md"
-              }
+                "file": "tech/personas/github_specialist_v1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de github_specialist_v1"
             }
           }
         ]
@@ -148,6 +164,23 @@
   },
   "active": "6fad35e609d40aa5",
   "lastOpenFiles": [
+    "tech/personas/github_specialist_v1.md",
+    "tech/personas/ireport_specialist_v1.md",
+    "tech/personas/python_specialist_v1.md",
+    "entertainment/consultor_pessoal_musicas.md",
+    "tech/github_specialist_v1.md",
+    "tech/gestor_riscos_v1.md",
+    "tech/equipe_problemas_v2.md",
+    "datasets/json_generator_aprendizado_v1.md",
+    "datasets/empresa_v1.md",
+    "datasets/data_anayst_Atlas_Datawise.md",
+    "debates/prompt_matrix.md",
+    "tech/protheus_v1.md",
+    "especialistas/plantas.md",
+    "especialistas/alfred_v1.md",
+    "especialistas/alfred_v1_chatgpt.md",
+    "especialistas/domestico.md",
+    "especialistas/geografica_v1.md",
     "debates/exercito_v1.md",
     "debates/debate_duas_pessoas_v1_chatgpt.md"
   ]
