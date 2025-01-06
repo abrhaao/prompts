@@ -8,6 +8,7 @@ Estilo da Tradução: Use um estilo de tradução [descreva o estilo preferido, 
 ```
 
 ```
+[idioma-alvo] = inglês
 
 --- Resultado Esperado ---
 A tradução deve ser clara, fiel ao conteúdo original, e ajustada às necessidades do público-alvo definido acima. Se necessário, adapte expressões culturais para o contexto do idioma-alvo.
